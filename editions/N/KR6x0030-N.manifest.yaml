@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR6x0030/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0030/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 論事
+  identifiers:
+    krp: KR6x0030
+    cbeta: N61n0030
+    cbeta_old_id: N61n0030
+    authorityid: CA0008294
+    json_key: N0030
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N61/N61n0030.xml
+    old_id: N61n0030
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0030_001-N.yaml, hash: 'sha256:7754953361d006117be08f04b7af036d513c325f2d1c5144dba67cd849f54c56'}
+  - {seq: 2, filename: KR6x0030_002-N.yaml, hash: 'sha256:b6150fb2bd27581f2e4de6dfc9ade45d5a8c37272ca20b2194a896ef78cc18bd'}
+  - {seq: 3, filename: KR6x0030_003-N.yaml, hash: 'sha256:cfee30d692883f496ec28dcd5f85debf57890eda050970ff11659f89a883bf41'}
+  - {seq: 4, filename: KR6x0030_004-N.yaml, hash: 'sha256:8709e80b8aa4aaac33e8d4ef5305885a9c3b5483c75b6f85deebe07664c7d0c7'}
+  - {seq: 5, filename: KR6x0030_005-N.yaml, hash: 'sha256:8efa82a5cae62d51a87c1addbe209dd0bbbc636a9154a24c6188b1bc08d7ae4f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0030_001-N.markers.yaml, hash: 'sha256:2d7cf93c85a74a0692bcf5fcb4d3c517cdc1ad12ccc6cc40cfb93e62522c4455'}
+  - {seq: 2, role: markers, filename: assets/KR6x0030_002-N.markers.yaml, hash: 'sha256:6f088bbd627242e257211b40f983b812e90bd45b3e2bd10543a69e05270ef759'}
+  - {seq: 3, role: markers, filename: assets/KR6x0030_003-N.markers.yaml, hash: 'sha256:b309ca48279ea76b492699c44738aa18af9fe78d5a4c673befa97baf6d0a02fa'}
+  - {seq: 4, role: markers, filename: assets/KR6x0030_004-N.markers.yaml, hash: 'sha256:f6555f11ae9baadda38e0b5f4d4f4ebb4c200db3297f6c7b6a3578e08909543e'}
+  - {seq: 5, role: markers, filename: assets/KR6x0030_005-N.markers.yaml, hash: 'sha256:6ae1592971caa7b041bbaaadc47f3c92288f85fd866788e26de1b757aa38edee'}
+table_of_contents: []
+hash: sha256:5f6515e4161269e87afbe5d1a1e9252f145737c3869fe0899bc37cfea1fb17ac
